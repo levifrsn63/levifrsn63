@@ -4,9 +4,9 @@
 ---
 
 ## 🚀 About Me  
-- 🔧 Currently making firmware for **ESP32 & BW16**  
-- ✈️ FPV drones & shooting cinematic footage  
-- 🎶 Producer on **FL Studio**  
+- 🔧 Currently tinkering with **ESP32 & BW16 firmwares**  
+- ✈️ Flying FPV drones & shooting cinematic footage  
+- 🎶 Making beats & tracks in **FL Studio**  
 - 💡 Always building cool projects and exploring new tech  
 
 ---
@@ -58,3 +58,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=levifrsn63&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levifrsn63&layout=compact&theme=tokyonight" height="165" />
 </p>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/levifrsn63/levifrsn63/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/levifrsn63/levifrsn63/output/snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/levifrsn63/levifrsn63/output/snake.svg" />
+  </picture>
+</p>
+
+<p align="center"><em>Generated with <a href="https://github.com/Platane/snk">Platane/snk</a></em></p>
