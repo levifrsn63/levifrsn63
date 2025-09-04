@@ -61,13 +61,4 @@
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/levifrsn63/levifrsn63/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/levifrsn63/levifrsn63/output/snake.svg" />
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/levifrsn63/levifrsn63/output/snake.svg" />
-  </picture>
-</p>
 
-<p align="center"><em>Generated with <a href="https://github.com/Platane/snk">Platane/snk</a></em></p>
