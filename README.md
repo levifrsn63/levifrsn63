@@ -1,17 +1,17 @@
 <h1 align="center">👋 Hey, I'm Levi</h1>
-<h3 align="center">Coder • Music Producer • FPV Pilot</h3>
+<h3 align="center">Developer • Producer • FPV Pilot</h3>
 
 ---
 
 ## 🚀 About Me  
-- 🔧 Currently tinkering with **ESP32 & BW16 firmwares**  
-- ✈️ Flying FPV drones & shooting cinematic footage  
-- 🎶 Making beats & tracks in **FL Studio**  
-- 💡 Always building cool projects and exploring new tech  
+- 🔧 Currently Developting for **ESP32 & BW16**  
+- ✈️ FPV Cinematographer  
+- 🎶 Music Producer in **FL Studio**  
+- 💡 Always open to new ideas and creating my own stuff
 
 ---
 
-## ⚡ Tech Stack  
+## ⚡ My Tech Stack  
 
 ### 👨‍💻 Code & Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
@@ -20,7 +20,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
 ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)  
 
-### 🎨 Creative & Game Dev  
+### 🎨 Design & Game Dev  
 ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white) 
 ![GameMaker](https://img.shields.io/badge/GameMaker-000000?logo=gamemaker&logoColor=white) 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)  
@@ -42,7 +42,6 @@
 ### 💻 Operating Systems  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) 
-![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)  
 
 ---
 
